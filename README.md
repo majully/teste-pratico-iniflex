@@ -26,3 +26,5 @@ Projeto Java posto como desafio de programação.
 ## Observações:
 - Foi utilizado DateTimeFormatter para a formatação de datas no formato brasileiro (dd/MM/yyyy);
 - O valor numérico foi exibido no formato brasileiro, com separador de milhar como ponto e decimal como vírgula, utilizando NumberFormat.
+
+- ![projeto-iniflex-java](https://github.com/user-attachments/assets/aaff43dc-c392-46ac-87dd-fd7031a26cf3)
